@@ -1,1 +1,1 @@
-Este es el segundo fichero
+Texto modificado desde la rama segunda
